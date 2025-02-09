@@ -1,0 +1,3 @@
+npx create-next-app@latest sanjeeb-portfolio --typescript --tailwind --eslint
+cd sanjeeb-portfolio
+npm install @headlessui/react @heroicons/react framer-motion next-themes 

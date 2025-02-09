@@ -1,0 +1,223 @@
+{
+  "hero": {
+    "title": "Sitar Performer • Teacher • Singer • Composer",
+    "subtitle": "Christian and Fusion Music Exponent with over 40 years of experience in Indian Classical Music"
+  },
+  "about": {
+    "photo": "/profile/use.jpg",
+    "content": [
+      "Dr. Sanjeeb Sircar, a pioneering figure in Indian Classical Sitar Music, is a seasoned performer, teacher, and innovator with a career spanning over forty years. Throughout his journey, he has performed and taught music across India, Italy, England, the USA, Nepal, and Australia. Dr. Sircar holds a Master's degree in Indian Music from Prayag Sangit Samiti, Allahabad, a diploma in Indian Music (Sitar) from Banaras Hindu University, Varanasi, and an Honorary Doctorate from the University of Jerusalem, Chennai. His musical renditions reflect the finest aspects of both the Instrumental (Tantrikari) and Vocal (Gayake) traditions of Indian music.",
+      "",
+      "Dr. Sircar's distinguished teachers include Grammy Award nominee Ustaad Shujaat Khan, son of the legendary sitarist Ustaad Vilayat Khan, from the Imdaad-Khani-Itawah Gharana, and the late Pandit Banwari Lal ji of the Senia Gharana, along with Dr. Raj Bhan Singh of the Gwalior Gharana and Dr. K.C. Gangrade, former Head of the Music Department at Banaras Hindu University. He has also participated in lectures, workshops, and performances with eminent scholars and musicians, including the legendary Pandit Ravi Shankar.",
+      "",
+      "In addition to his expertise in Indian Classical Sitar, Dr. Sircar is versatile in various musical genres, including Christian, Western Classical, Fusion, Jazz, Folk, Pop, Rock, Experimental, and Country music. He is proficient in several other instruments like the guitar, piano, keyboards, bass, and tabla.",
+      "As a trailblazer in integrating the sitar with genres like Jazz, Christian, and Gospel music, Dr. Sircar has maintained the purity and essence of Indian Classical music while exploring innovative, meaningful expressions across different styles. His unique approach has been celebrated for over thirty-five years.",
+      "In 2008, he was honored as the Best International Ambient Male Artist by Toronto Exclusive Magazine International Awards, and in 2014, he received an Award of Excellence from the India World Cultural Forum. His music continues to be featured on select TV and radio broadcasts worldwide.",
+      "Dr. Sircar's passion for Christian music grew as he deepened his personal relationship with Jesus Christ. He enjoys playing Christian music, singing, and directing choirs.",
+      "Beyond music, Dr. Sircar has a diverse academic background, having studied Electrical Engineering, earned a Bachelor of Arts, and completed the Fifth Grade in Piano from Trinity College of Music, London. He also holds a Bachelor in Christian Studies from the Senate of Serampore.",
+      "In his school years, Dr. Sircar earned top honors in an all-India music competition and was awarded a prestigious two-year scholarship in 1978 by the Government of India for advanced music studies.",
+      "Dr. Sanjeeb Sircar has produced four music albums and contributed tracks to numerous productions, with many of his videos available online. Based in New Delhi and Allahabad/Prayagraj, India, he continues to serve as a performer, producer, researcher, and teacher of music, inspiring the next generation of musicians with his knowledge and creativity."
+    ]
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "/gallery/WhatsApp Image 2025-01-29 at 15.24.42_e7ab4a8e.jpg",
+        "alt": "Dr. Sanjeeb Sircar in Garden",
+        "caption": "Outdoor Performance Setting"
+      },
+      {
+        "src": "/gallery/IMG_5258.jpg",
+        "alt": "Dr. Sanjeeb Sircar in Pink Attire",
+        "caption": "Studio Performance Session"
+      },
+      {
+        "src": "/gallery/me 4_Fotor.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/7-copy.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/8.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/7012.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/group2.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/neophilliacs.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/to-use-2.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/scan-30001_fotor.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/picture3-1.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      },
+      {
+        "src": "/gallery/picture18.jpg",
+        "alt": "Dr. Sanjeeb Sircar with Sitar",
+        "caption": "Traditional Performance"
+      }
+    ]
+  },
+  "performances": [
+    { "location": "Benares (Varanasi)", "year": "1975, 1976" },
+    { "location": "Allahabad", "year": "1977" },
+    { "location": "Italy: Rome, Torino, Umbria", "year": "1978" },
+    { "location": "New Delhi: Jawaharlal Nehru University", "year": "1980" },
+    { "location": "Auroville: India", "year": "1980", "note": "Daily in the evenings during four month stay there" },
+    { "location": "Varanasi: Taj Ganges Hotel", "year": "1980,1981", "note": "Six days a week for an year" },
+    { "location": "Varanasi: YMCA", "year": "1980" },
+    { "location": "Allahabad: YWCA", "year": "1982" },
+    { "location": "New Delhi: YMCA", "year": "1984" },
+    { "location": "USA Govindas, Miami, Florida", "year": "1986-1987", "note": "Three times a week for six months and at several other places nearby" },
+    { "location": "USA: Florida International University", "year": "1987" },
+    { "location": "USA Florida: Yoga Research Foundation", "year": "1987" },
+    { "location": "USA Govindas, St Louis", "year": "1987" },
+    { "location": "Allahabad: Allahabad Bible Seminary", "year": "1988" },
+    { "location": "Allahabad: Girls High School", "year": "1989" },
+    { "location": "New Delhi: Lalit Kala Acadamy", "year": "1990" },
+    { "location": "New Delhi: Sushil Muni Ashram", "year": "1992" },
+    { "location": "New Delhi: Uma Sharma's School of Music and Dance", "year": "1994 - 1995" },
+    { "location": "New Delhi: YMCA", "year": "1997" },
+    { "location": "Allahabad: St.Paul Church", "year": "1999" },
+    { "location": "New Delhi: YWCA, With Resurrection Team from USA", "year": "2000" },
+    { "location": "New Delhi: Sangeet Sankalp (Indian Classical Music Society) Gandhi Bhavan, Delhi University", "year": "2001" },
+    { "location": "New Delhi: Habitat Center, Habitat World", "year": "2001" },
+    { "location": "New Delhi, Ragranjani (Music Society)", "year": "2001" },
+    { "location": "Faridabad, Grace Assembly", "year": "2001" },
+    { "location": "Calcutta, Baptist Church", "year": "2002" },
+    { "location": "Calcutta, Bethel Assembly", "year": "2002" },
+    { "location": "Calcutta, Salvation Army", "year": "2002" },
+    { "location": "New Delhi, Osanam Home", "year": "2002" },
+    { "location": "New Delhi, YMCA", "year": "2002" },
+    { "location": "Mussoorie, Woodstock School", "year": "2002" },
+    { "location": "New Delhi, Global Peace Mission", "year": "2002" },
+    { "location": "Calcutta, Surya Sikha", "year": "2002" },
+    { "location": "Kodaikanal, Pentecostal Church", "year": "2002" },
+    { "location": "Talkatora Stadium, New Delhi", "year": "2002" },
+    { "location": "New Delhi YMCA", "year": "2003" },
+    { "location": "Calcutta, Salvation Army", "year": "2003" },
+    { "location": "India Habitat Centre, New Delhi", "year": "2003" },
+    { "location": "Allahabad Bible Seminary, Allahabad", "year": "2003" },
+    { "location": "Uppal's Orchid New Delhi", "year": "2004" },
+    { "location": "India Habitat Centre, New Delhi", "year": "2004" },
+    { "location": "Woodstock School, Mussoorie", "year": "2005" },
+    { "location": "Sangeet Sankalp, New Delhi", "year": "2005" },
+    { "location": "Grace Bible Collage, Gurgaon", "year": "2005" },
+    { "location": "Gideons Annual Conference, New Delhi", "year": "2005" },
+    { "location": "Rayans International School, Mumbai", "year": "2005" },
+    { "location": "Poorva Sanskrit Kendra, New Delhi", "year": "2006" },
+    { "location": "India Habitat Centre, New Delhi", "year": "2006" },
+    { "location": "Kamani Auditorium, New Delhi", "year": "2006", "note": "with the Fran Molina Jazz Flamenco Group from Spain" },
+    { "location": "Rag Ranjani Music Society, Indian Habitat Centre, New Delhi", "year": "2006" },
+    { "location": "Uttpal Dutt Manch, Kolkutta", "year": "2006" },
+    { "location": "Gaaziabad", "year": "2006" },
+    { "location": "Kingdom International, New Delhi", "year": "2006" },
+    { "location": "Yeshu Darbar, AAIDU, Allahabad", "year": "2006" },
+    { "location": "Pentecostal Church, Allahabad", "year": "2006" },
+    { "location": "Uppals Orchid, New Delhi", "year": "2006" },
+    { "location": "Yeshu Darbar, Allahabad", "year": "2007" },
+    { "location": "Sangeet Sankalp, Allahabad", "year": "2007" },
+    { "location": "Bishop Johnson School, Allahabad", "year": "2007" },
+    { "location": "Kingdom International, YMCA, New Delhi", "year": "2007" },
+    { "location": "The Tent, Kingdom International, New Delhi", "year": "2007" },
+    { "location": "Ragranjani, Kolkata", "year": "2007" },
+    { "location": "Oberoi Hotel, New Delhi", "year": "2008" },
+    { "location": "Sangit Sankalp, Allahabad", "year": "2008" },
+    { "location": "Capital City Church, New Delhi", "year": "2008" },
+    { "location": "Ragranjani, New Delhi", "year": "2009" },
+    { "location": "Capital City Church, New Delhi", "year": "2009" },
+    { "location": "Assemblies of God, Kolkata", "year": "2009" },
+    { "location": "Epicentre, Gurgaon", "year": "2009" },
+    { "location": "Ingleburn Church, Australia", "year": "2010" },
+    { "location": "Oz Funland, Sydney, Australia", "year": "2010" },
+    { "location": "Parliament House, NSW, Australia", "year": "2010" },
+    { "location": "Epicentre Gurgaon", "year": "2011" },
+    { "location": "Yeshu Darbar", "year": "2012" },
+    { "location": "Epicenter Gurgaon", "year": "2012" },
+    { "location": "Opkar Foundation, New Delhi", "year": "2012" },
+    { "location": "Yeshu Darbar", "year": "2013" },
+    { "location": "Epicenter Gurgaon", "year": "2014" },
+    { "location": "Various Locations", "year": "2014-2022", "note": "An unmaintained list of many concerts" },
+    { "location": "United Kingdom", "year": "2023", "note": "Performances in the UK" },
+    { "location": "To be updated", "year": "Current" }
+  ],
+  "onlineLessons": {
+    "emails": [
+      "sundayin@yahoo.com",
+      "sanjeebsircar@gmail.com"
+    ],
+    "skype": "sanjeeb2"
+  },
+  "navigation": [
+    { "name": "Home", "href": "#" },
+    { "name": "About", "href": "#about" },
+    { "name": "Gallery", "href": "#gallery" },
+    { "name": "Audio & Video", "href": "#media" },
+    { "name": "Performances", "href": "#performances" },
+    { "name": "Online Lessons", "href": "#lessons" },
+    { "name": "Contact", "href": "#contact" }
+  ],
+  "media": {
+    "title": "Audio and Video Samples",
+    "description": "Experience the fusion of classical Indian music with various genres through these selected performances.",
+    "videos": [
+      {
+        "title": "Sitar - Fast tans / melodic lines in Raag Bhairavi",
+        "youtubeId": "c9f8saoZQ_8",
+        "description": "A demonstration of fast tans and melodic lines in Raag Bhairavi by Dr. Sanjeeb Sircar"
+      },
+      {
+        "title": "Your Second Video Title",
+        "youtubeId": "82vTYKbwZu0",
+        "description": "Description of your second video"
+      },
+      {
+        "title": "Your Third Video Title",
+        "youtubeId": "lsfEWFHjiE4",
+        "description": "Description of your third video"
+      },
+      {
+        "title": "Your Fourth Video Title",
+        "youtubeId": "-xetCOM2nhI",
+        "description": "Description of your third video"
+      },
+      {
+        "title": "Your Fourth Video Title",
+        "youtubeId": "1K_R5AooJi8",
+        "description": "Description of your third video"
+      }
+    ],
+    "audio": [
+      {
+        "title": "Classical Sitar Performance",
+        "src": "/audio/sample1.mp3",
+        "description": "Traditional Indian Classical Sitar performance"
+      }
+    ]
+  }
+} 
